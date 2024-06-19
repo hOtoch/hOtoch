@@ -1,4 +1,4 @@
-# 👋 Olá, Eu sou o Hugo!
+# 👋 Olá, Eu sou o Hugo Otoch!
 
 🎓 Sou um estudante de Engenharia de Computação na Universidade Federal do Espírito Santo (UFES), com 23 anos de idade e uma paixão profunda por tecnologia e desenvolvimento de software.
 
@@ -24,7 +24,7 @@
 
 ## 🌟 Sobre Mim
 
-  Desde pequeno, sempre fui fascinado pelo mundo da tecnologia. Esta paixão me levou a escolher a Engenharia de Computação como carreira, onde posso explorar e inovar constantemente. Estou sempre buscando novos desafios e oportunidades para aprender e crescer como profissional.
+  Desde pequeno, sempre fui fascinado pelo mundo da tecnologia. Esta paixão me levou a escolher a Engenharia de Computação como carreira, onde posso explorar e inovar constantemente. Estou sempre buscando novos desafios e oportunidades para aprender e me superar cada dia mais. Sou apaixonado em por em prática assuntos que aprendi de forma a criar um desafio para mim mesmo. Portanto, acredito que o importante é sempre tentar e buscar se tornar uma pessoa e um profissional melhor.
 
 ---
 
