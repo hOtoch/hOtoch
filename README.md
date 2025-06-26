@@ -1,40 +1,34 @@
-# 👋 Olá, Eu sou o Hugo Otoch!
+# 👋 Olá, eu sou o Hugo Otoch!
 
-🎓 Sou um estudante de Engenharia de Computação na Universidade Federal do Espírito Santo (UFES), com 23 anos de idade e uma paixão profunda por tecnologia e desenvolvimento de software.
+[cite_start]Estudante de Engenharia de Computação na UFES com forte direcionamento de carreira para **Inteligência Artificial** e **Análise de Dados**. [cite: 1]
 
-   #### Meu portfólio: https://hugootoch.vercel.app/
----
+[cite_start]Estou constantemente aprofundando meus conhecimentos em Deep Learning, Processamento de Linguagem Natural (NLP) e IAs Generativas (LLMs), aplicando a teoria em projetos práticos. [cite: 2] [cite_start]Minha experiência me permite transformar dados complexos em insights acionáveis, buscando sempre otimizar processos e agregar valor estratégico através de soluções de IA. [cite: 3]
 
-## 💻 Habilidades Técnicas
-
-- **Linguagens de Programação**:
-  
-  <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-  |--|--|--|--|--|
-
-- **Frameworks e Ferramentas**:
-  <img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="NodeJS" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|<img title="Spring" alt="Spring" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
-  |--|--|--|--|--|--|--|
-
-  
-## 📚 Estudos Atuais
-
-  Atualmente, estou focado em estudar e praticar **automação de processos utilizando Python**, com o objetivo de usar a tecnologia para executar tarefas com o mínimo possível de assistência humana. Esse recurso pode ser usado por qualquer setor que envolva tarefas repetitivas, mas é mais frequente nos setores de manufatura, robótica e automotivo, bem como em sistemas de TI.
+<a href="mailto:otochdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://linkedin.com/in/hugootoch/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://hugootoch.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 ---
 
-## 🌟 Sobre Mim
+## 🚀 Competências e Habilidades
 
-  Desde pequeno, sempre fui fascinado pelo mundo da tecnologia. Esta paixão me levou a escolher a Engenharia de Computação como carreira, onde posso explorar e inovar constantemente. Estou sempre buscando novos desafios e oportunidades para aprender e me superar cada dia mais. Sou apaixonado em por em prática assuntos que aprendi de forma a criar um desafio para mim mesmo. Portanto, acredito que o importante é sempre tentar e buscar se tornar uma pessoa e um profissional melhor.
+Meu foco principal está no desenvolvimento de soluções de ponta a ponta no ecossistema de Inteligência Artificial.
+
+* **IA & Machine Learning:**
+    * [cite_start]Desenvolvimento de agentes autônomos e chatbots com **LangChain** e **LangGraph**. [cite: 6]
+    * [cite_start]Experiência com APIs de LLMs (**GPT, Gemini, Claude**). [cite: 6]
+    * [cite_start]Fine-tuning e implementação de **RAG (Retrieval-Augmented Generation)**. [cite: 6]
+    * [cite_start]Frameworks de Deep Learning: **Pytorch, TensorFlow e Keras**. [cite: 7]
+    * [cite_start]Web Scraping, Embeddings e Armazenamento Vetorial. [cite: 7]
+
+* **Automação e Desenvolvimento:**
+    * [cite_start]Automação de processos (RPA) com **Python** e **Selenium**. [cite: 6, 7]
+    * [cite_start]Desenvolvimento de APIs com **FastAPI** e **Flask**. [cite: 7]
+    * [cite_start]Análise de dados com **Python (Pandas, NumPy)** e visualização com **PowerBI**. [cite: 5]
 
 ---
 
-## 🚀 Vamos Conectar!
 
-  Estou sempre aberto a novas oportunidades e colaborações. Se você está interessado em discutir ideias, projetos ou apenas quer bater um papo sobre tecnologia, sinta-se à vontade para me contatar!
+## 📬 Vamos Conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo-blue)](https://www.linkedin.com/in/hugootoch)
-
----
-
-Muito obrigado por visitar meu perfil!
+Estou aberto a novas oportunidades, colaborações e desafios na área de Inteligência Artificial. Se você tem um projeto em mente ou quer discutir sobre tecnologia, entre em contato!
