@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Hugo Otoch!
 
-Estudante de Engenharia de Computação na UFES com forte direcionamento de carreira para **Inteligência Artificial** e **Análise de Dados**.
+Estudante de Engenharia de Computação na UFES com forte direcionamento de carreira para **Inteligência Artificial** e **Machine Learning**.
 
 Estou constantemente aprofundando meus conhecimentos em Deep Learning, Processamento de Linguagem Natural (NLP) e IAs Generativas (LLMs), aplicando a teoria em projetos práticos. Minha experiência me permite transformar dados complexos em insights acionáveis, buscando sempre otimizar processos e agregar valor estratégico através de soluções de IA.
 
