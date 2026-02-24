@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/stats-card.sv" width="850" alt="Mission Telemetry"/>
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
 
 <br/>
